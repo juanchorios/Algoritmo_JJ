@@ -1,0 +1,5 @@
+radio=int(input("digite el valor del radio: "))
+pi=float(input("digite el valor de pi: "))
+a= pi*(radio**2)
+print("el volumen es ",a)
+print(a)
